@@ -2,12 +2,10 @@
 
 body{
      margin: 0;
-     
-     /* font-family: candara; */
      font-family: CANDARA;
-     /* font-weight: bold; */
-     
-     /* color:  #7c3aed; */
+     /* background-color: #d3d3d3; */
+     /* background-color: #f1f1f1; */
+
  }
  a{
      text-decoration: none;
@@ -24,8 +22,9 @@ body{
 }
 
 .navigation{
-    padding: 2rem;
+    padding: 1rem;
     font-size: 23px;
+    border: 1px solid #E6E6E3;
     
 }
 
@@ -111,6 +110,8 @@ a:hover{
     margin-top: 80px;
     /* margin-top: 250px;
     margin-left: 560px; */
+    /* background-color: #f1f1f1; */
+    display: flex;
 }
 
 
@@ -137,19 +138,24 @@ a:hover{
     
     
 }
+
+#lesson1
+{
+    width: 380px;
+}
 /* p{
     padding-top:0 ;
 } */
 
 
-.project_div2{
+/* .project_div2{
     height:280px;
     width: 900px;
     /* border: 1px solid black; */
-    margin-left: 12rem;
-}
+    /* margin-left: 12rem;
+} */
 
-.project2{
+/* .project2{
     height: 200px;
     width: 380px;
     border: 1px solid blue;
@@ -157,7 +163,7 @@ a:hover{
     margin-right: 3rem;
     margin-top: 2rem;
     border-radius: 1rem;
-}
+} */ 
 
 p{
     font-size: 22px;
@@ -166,4 +172,25 @@ p{
 h1{
     margin-left: 1rem ;  
 }
+
+
+/* blog page style are here */
+
+.blog_div1{
+    height:170px;
+    width: 800px;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin-left: 13rem;
+}
+
+.blog_div2{
+    height:170px;
+    width: 800px;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin-left: 13rem;
+    margin-top: 2rem;
+}
+
 
