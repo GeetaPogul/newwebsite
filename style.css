@@ -4,7 +4,7 @@ body{
      margin: 0;
      font-family: CANDARA;
      /* background-color: #d3d3d3; */
-     /* background-color: #f1f1f1; */
+     background-color: #fffff1;
 
  }
  a{
@@ -56,9 +56,13 @@ img{
     height: 40px;
     width: 40px;
     /* margin-top: 200px; */
+    /* fill: red; */
+
+    /* filter: brightness(0); */
 }
 a:hover{
     color:#7c3aed;
+  
 	 /* color:black; */
 }
  
@@ -66,6 +70,8 @@ a:hover{
  #github{
     margin-top: 11rem;
     margin-left: 8rem;
+   
+    
 
 } 
 #twitter{
@@ -194,3 +200,9 @@ h1{
 }
 
 
+.home__social-icon{
+    font-size: 1.25rem;
+    /* color: var(--first-color); */
+
+    color: hsl(var(--hue-color), 69%, 61%);
+}
