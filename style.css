@@ -55,14 +55,11 @@ body{
 img{
     height: 40px;
     width: 40px;
-    /* margin-top: 200px; */
-    /* fill: red; */
-
-    /* filter: brightness(0); */
+    
 }
 a:hover{
-    color:#7c3aed;
-  
+    /* color:#7c3aed; */
+   color: #0000FF;  
 	 /* color:black; */
 }
  
@@ -107,13 +104,13 @@ a:hover{
     float: left;
     margin-left: 100px;
     padding-left: 1rem;
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
 
 #image{
     height: 200px;
     width: 200px;
-    margin-top: 80px;
+    margin-top: 50px;
     /* margin-top: 250px;
     margin-left: 560px; */
     /* background-color: #f1f1f1; */
