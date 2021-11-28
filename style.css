@@ -108,9 +108,12 @@ a:hover{
 }
 
 #image{
-    height: 200px;
-    width: 200px;
-    margin-top: 50px;
+   
+        height: 300px;
+        width: 400px;
+        margin-left:40rem;
+        margin-top: 3rem;
+    
     /* margin-top: 250px;
     margin-left: 560px; */
     /* background-color: #f1f1f1; */
@@ -136,6 +139,16 @@ a:hover{
     border: 1px solid blue;
     float: right;
     margin-right: 3rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+}
+
+.project2{
+    height: 200px;
+    width: 380px;
+    border: 1px solid blue;
+    float: left;
+    margin-left: 14rem;
     margin-top: 2rem;
     border-radius: 1rem;
     
