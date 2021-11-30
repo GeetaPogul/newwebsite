@@ -3,8 +3,9 @@
 body{
      margin: 0;
      font-family: CANDARA;
-     /* background-color: #d3d3d3; */
+     
      background-color: #fffff1;
+     
 
  }
  a{
@@ -157,7 +158,7 @@ a:hover{
  
 .project3{
     height: 200px;
-    width: 380px;
+    width: 390px;
     border: 2px solid blue;
     float: left;
     margin-left: 14rem;
@@ -340,3 +341,15 @@ h1{
 }
 
 
+.project1-goodbook{
+   
+        height: 200px;
+        width: 380px;
+        border: 2px solid blue;
+        float: right;
+        margin-right: 3rem;
+        margin-top: 3rem;
+        border-radius: 1rem;
+    
+    
+}
